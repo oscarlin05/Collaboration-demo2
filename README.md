@@ -2,5 +2,3 @@
 
 ## Section 2
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Justo eget magna fermentum iaculis. Nibh ipsum consequat nisl vel. Cursus in hac habitasse platea dictumst quisque sagittis purus. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Ullamcorper morbi tincidunt ornare massa eget egestas purus. Eget nulla facilisi etiam dignissim. Enim nec dui nunc mattis enim ut tellus elementum. Ut pharetra sit amet aliquam. Rhoncus urna neque viverra justo nec ultrices dui. Mauris commodo quis imperdiet massa. Justo eget magna fermentum iaculis eu non diam. Vitae semper quis lectus nulla at volutpat diam ut. Felis eget nunc lobortis mattis aliquam faucibus purus in. Nulla aliquet porttitor lacus luctus accumsan. Aliquam sem et tortor consequat id porta. Consectetur libero id faucibus nisl tincidunt. Libero id faucibus nisl tincidunt eget.
-
-aliquam faucibus purus in. Nulla aliquet porttitor lacus luctus accumsan. Aliquam sem et tortor consequat id porta. Consectetur libero id faucibus nisl tincidunt. Libero id faucibus nisl tincidunt eget.
